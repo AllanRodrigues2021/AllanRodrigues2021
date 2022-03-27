@@ -1,4 +1,4 @@
-##  Olá!  eu sou Allan Rodrigues, estudante de engenharia de software e aspirante a desenvolvedor full stack!! 👨‍💻👨‍💻
+##  Olá!  eu sou Allan Rodrigues, estudante de engenharia de software e aspirante a dev!! 👨‍💻👨
 <div align="center">
   <a href="https://github.com/allanrodrigues2021">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allanrodrigues2021&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
